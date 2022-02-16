@@ -1,0 +1,181 @@
+/*========================*/
+/* HEADER */
+/*========================*/
+
+#header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    transition: background-color 0.3s linear;
+}
+
+#header.add-bg{  background-color: var(--color-violet-dark);  }
+
+.nav-wrap{
+    --pd-vert: 15px;
+    padding: var(--pd-vert) 30px;
+    background-color: transparent;
+}
+
+@media only screen and (max-width: 1080px){
+    .nav-wrap{  --pd-vert: 6px;  }
+}
+
+/*========================*/
+/* LOGO  */
+/*========================*/
+
+.logo img{  height: 50px;  }
+.logo{  display: block;  }
+.logo img.logo_mobile{  display: none;  }
+
+@media only screen and (max-width: 1440px){
+    .logo img:first-child{  display: none;  }
+    .logo img.logo_mobile{  display: block;  }
+}
+
+@media only screen and (max-width: 1080px){
+    .logo img{
+      height: 40px;
+    }
+}
+
+/*========================*/
+/* NAV */
+/*========================*/
+
+.nav.active{  right: 0;  }
+
+.nav, .menu-wrap{  flex-grow: 1;  }
+.menu-wrap{  text-align: center;  }
+
+.nav-item{
+    color: #fff;
+    transition: color 0.2s linear;
+}
+
+.nav-item:not(:last-child){  margin:0 25px 0 0;  }
+
+.nav-item.current-item, .nav-item:hover{  color: var(--color-violet-white);  }
+
+.nav-btn.outline{
+    --btn-bdr: 30px;
+    padding: 10px 25px;
+    margin-top: 0;
+    border-color: #fff;
+}
+.nav-btn.outline:hover{
+    color: var(--color-violet);
+    background-color: #fff;
+}
+
+@media only screen and (max-width: 1080px){
+    .nav-wrap{  height: var(--header-h);  }
+    .nav, .menu-wrap{  flex-grow: 0;  }
+    .nav{
+        flex-direction: column;
+        width: min(100%, 320px);
+        height: calc(100vh - var(--header-h));
+        padding: 40px 20px 20px;
+        position: fixed;
+        right: max(-100%, -320px);
+        top: var(--header-h);
+        background-color: var(--color-violet-black);
+        transition: right 0.3s ease;
+    }
+
+    .nav-item{
+        padding: 10px 0;
+        text-align: center;
+        display: block;
+    }
+
+    .nav-item:not(:last-child){  margin:0 0 5px 0;  }
+
+    .nav-btn.outline{  margin-top: 30px;  }
+
+}
+
+/*========================*/
+/* MENU BARS */
+/*========================*/
+
+.menu-bars{
+    --size: 42px;
+    --bar-h: 2px;
+    --bar-w: 55%;
+    --bar-gap: 5px;
+    --border-w: 1PX;
+    --border-rd: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: var(--size);
+    height: var(--size);
+    border: var(--border-w) solid #FFF;
+    border-radius: var(--border-rd);
+    cursor: pointer;
+    background: var(--color-transparent);
+}
+.menu-bars span{
+    display: block;
+    width: var(--bar-w);
+    height: var(--bar-h);
+    background-color: #fff;
+    border-radius: calc( var(--bar-h) / 2 );
+    transition: transform 0.2s linear, opacity 0.2s linear;
+}
+.menu-bars span:first-child{
+    transform: translate3d(0,calc(var(--bar-gap) * -1),0);
+}
+.menu-bars span:last-child{
+    transform: translate3d(0,var(--bar-gap),0);
+}
+.menu-bars.active span:first-child{
+    transform: translate3d(0,var(--bar-h),0) rotate3d(0,0,1,-45deg);
+}
+.menu-bars.active span:last-child{
+    transform: translate3d(0,calc(var(--bar-h) * -1),0) rotate3d(0,0,1,45deg);
+}
+.menu-bars.active span:nth-child(2){
+    transform: scale3d(0,0,0);
+    opacity: 0;
+}
+
+@media only screen and (min-width: 1081px){
+    .menu-bars{  display: none;  }
+}
+
+/*========================*/
+/* LANG-SWITCHER */
+/*========================*/
+
+.lang-switcher{  margin-left: 40px;  }
+.lang-switcher--a{
+    display: inline-block;
+    text-transform: capitalize;
+    padding: 3px 10px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #fff;
+    transition: border-color 0.2s ease-out, background-color 0.2s ease-out;
+}
+.lang-switcher--a.active,.lang-switcher--a[aria-current="page"] {
+    border-color: #fff;
+}
+.lang-switcher--a:hover{
+    border-color: var(--color-orange);
+    background-color: var(--color-orange);
+}
+
+/*========================*/
+/* ANCHORS */
+/*========================*/
+
+.anchor:not(#home){
+    transform: translateY(calc(var(--header-h) * -1 + 3px));
+}
+html{  scroll-behavior: smooth;  }

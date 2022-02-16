@@ -1,0 +1,95 @@
+{
+
+    "Menu_Home" : "Home" ,
+    "Menu_Stake" : "Stake" ,
+    "Menu_Gamefi" : "Gamefi" ,
+    "Menu_Roadmap" : "Roadmap" ,
+    "Menu_About" : "About us" ,
+
+    "Btn_Connect_Wallet" : "Connect Wallet!" ,
+
+    "Hero_1" : "Build the metaverse by being part of it!!" ,
+    "Hero_2" : "Powered by real people.",
+
+    "Btn_BuyNow" : "Buy now!",
+
+    "Stake_01" : "Crypto Makers Foundation",
+    "Stake_02" : "Is a community-driven platform empowering users by rewarding them for their engagement and enjoyment. By using innovative tokenomics, utilizing Play to earn, Networking , scholarships and GameFi;Whilst also combining the best of DeFi and NFTs.",
+
+    "Stake_03" : "CMF Key stats",
+    "Stake_04" : "Starting as the largest guild in Latin America.",
+
+    "Key_Stats_01" : "500 on Axie Infinity Gamers.",
+    "Key_Stats_02" : "1,500 Scholarship Waitlist.",
+    "Key_Stats_03" : "1 Million Dollars Portfolio NFTs in the GameFi Industry.",
+    "Key_Stats_04" : "$350,000 TVL cryptos in staking.",
+    "Key_Stats_05" : "3,500 Backers in our marketing platform.",
+    "Key_Stats_06" : "20 Technology Blockchain developers.",
+    "Key_Stats_07" : "250,000 people engagement reach in our social media platforms.",
+    "Key_Stats_08" : "People from all over the world +20 Countries.",
+
+    "About_01" : "Why Crypto Makers Foundation?",
+    "About_02" : "We are Creating a <span class='tc-blue fw-bold'>DAO</span> that actually has its own economic ecosystem instead of only depending on other crypto gaming platforms.",
+    "About_03" : "About us",
+    "About_04" : "What is CMF?",
+    "About_05" : "Crypto Makers Foundation is a decentralized autonomous organization focused on developing the play-to-earn economy by building a strong community of gamers for the metaverse.",
+
+    "Gamefi_01" : "Wisdom Meta is a Gamefi Protocol Powered by CMF DAO",
+    "Gamefi_02" : "Wisdom Meta is our NFT's collection that revives the diversity of real people that help us to create our gaming guild DAO and honors them by giving the opportunity to create their own NFT's collection for their audiences.",
+
+    "Questions_Title": "Common Questions",
+    "Questions_SubTitle_01": "How can I get involved as a scholar?",
+    "Questions_Text_01": "We handle everything related to scholarships in our Discord environment. To apply for a scholarship, please join this server and follow the instructions provided there.Our managers are working really hard to onboard as many scholars as possible.",
+    "Questions_SubTitle_02": "How can I get involved as a contributor?",
+    "Questions_Text_02": "As a decentralized autonomous organization, we want to ensure a widespread distribution of the $CMF token. Therefore, we're actively researching several ways of having a plublic investment round where anyone will have the opportunity to purchase their stake of tokens and thereby become part of the Crypto Maker Foundation DAO.",
+    "Questions_Link": "Find us on Discord",
+
+    "Roadmap_Phase": "Phase",
+    "Roadmap_Phase_01_01": "Idea Conceptualization",
+    "Roadmap_Phase_01_02": "Initial Fundraising",
+    "Roadmap_Phase_01_03": "Build the Gamers Crew CMC 250 scholarships ",
+    "Roadmap_Phase_01_04": "Build the backers community CMF",
+    "Roadmap_Phase_01_05": "CMF DAO",
+    "Roadmap_Phase_01_06": "1,000 scholarships program",
+
+    "Roadmap_Phase_02_01": "Whitepaper release & Coinmarketcap",
+    "Roadmap_Phase_02_02": "Apply CoinGecko, CoinMarketCap, Blockfolio Listing ",
+    "Roadmap_Phase_02_03": "Fundraising DAO CMF Private sale 0.01",
+    "Roadmap_Phase_02_04": "Community Public sale CMF token 0.05",
+    "Roadmap_Phase_02_05": "Smart contract public sale",
+
+
+    "Roadmap_Phase_03_01": "BSC our tokens Wallet testnet Launch",
+    "Roadmap_Phase_03_02": "Smart contract Wisdom Token",
+    "Roadmap_Phase_03_03": "Launch pools Community Private whitelist sales.",
+    "Roadmap_Phase_03_04": "Staking CMF Launch pool for Wisdom Tokens",
+    "Roadmap_Phase_03_05": "Wisdom Tokens rewards with LP Tokens BNB / CMF",
+
+    "Roadmap_Phase_04_01": "First weekly vesting releases community tokens.",
+    "Roadmap_Phase_04_02": "Whitelist NFT's Founder Collection - Limited edition",
+    "Roadmap_Phase_04_03": "Nft's Marketplace Launch",
+    "Roadmap_Phase_04_04": "Marketing and Airdrops launches",
+
+    "Roadmap_Phase_05_01": "Beta test Nft's Creation algorithm",
+    "Roadmap_Phase_05_02": "Staking NFT's to Level Up",
+    "Roadmap_Phase_05_03": "Gamefi Platform Launch / Join the Metaverse",
+    "Roadmap_Phase_05_04": "Influencers Marketing Campaign Launch",
+
+    "Roadmap_Phase_06_01": "Diversified the Ventures and NFT's Collection",
+    "Roadmap_Phase_06_02": "Build the 3d Metaverse",
+
+    "Month_01" : "January",
+    "Month_02" : "February",
+    "Month_03" : "March",
+    "Month_04" : "April",
+    "Month_05" : "May",
+    "Month_06" : "June",
+    "Month_07" : "July",
+    "Month_08" : "August",
+    "Month_09" : "September",
+    "Month_10" : "October",
+    "Month_11" : "November",
+    "Month_12" : "December"
+
+
+}

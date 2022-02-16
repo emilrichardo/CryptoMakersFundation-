@@ -1,0 +1,94 @@
+{
+    "Menu_Home" : "Inicio" ,
+    "Menu_Stake" : "Stake" ,
+    "Menu_Gamefi" : "Gamefi" ,
+    "Menu_Roadmap" : "Roadmap" ,
+    "Menu_About" : "Acerca de nosotros" ,
+
+    "Btn_Connect_Wallet" : "Conecta tu Wallet" ,
+
+    "Hero_1" : "Construye y únete al metaverso" ,
+    "Hero_2" : "Powered by real people.",
+    "Btn_BuyNow" : "¡Comprar ahora!",
+
+    "Stake_01" : "Crypto Makers Foundation",
+    "Stake_02" : "Es una plataforma impulsada por la comunidad que potencia a los usuarios recompensándolos por su compromiso y diversión mediante el uso de Tokenomics. Además utiliza Play to earn, Networking , becas y GameFi ; mientras combina lo mejor de DeFi y NFT’s.",
+    "Stake_03" : "Estadísticas clave de CMF",
+    "Stake_04" : "Descubre la comunidad más grande de América Latina.",
+
+    "Key_Stats_01" : "500 en Axie Infinity Gamers ",
+    "Key_Stats_02" : "1,500 en lista de espera por una beca.",
+    "Key_Stats_03" : "1 Millón de dólares de Cartera Nfts en la Industria GameFi.",
+    "Key_Stats_04" : "$350,000 criptomonedas TVL en staking.",
+    "Key_Stats_05" : "3.500 Backers en nuestra plataforma de marketing.",
+    "Key_Stats_06" : "20 desarrolladores de tecnología Blockchain.",
+    "Key_Stats_07" : "250.000 personas de alcance de compromiso en nuestras plataformas de medios sociales.",
+    "Key_Stats_08" : "Personas de todo el mundo + 20 Países.",
+
+    "About_01" : "¿Por qué Crypto Makers Foundation?",
+    "About_02" : "Estamos creando una <span class='tc-blue fw-bold'>DAO</span> que realmente tiene su propio ecosistema económico en lugar de depender únicamente de otras plataformas de juego de criptomonedas.",
+    "About_03" : "Sobre nosotros",
+    "About_04" : "¿Qué es CMF? ",
+    "About_05" : "Crypto Makers Foundation es una organización autónoma descentralizada especializada en el desarrollo de la economía  play-to-earn, mediante la construcción de una fuerte comunidad de jugadores para el metaverso. ",
+
+    "Gamefi_01" : "Wisdom Meta es un protocolo Gamefi impulsado por CMF DAO",
+    "Gamefi_02" : "Wisdom Meta es nuestra colección de NFT's que revive la diversidad de personas reales que nos ayudan a crear nuestro DAO de gremio de juego y los honra dando la oportunidad de crear su propia colección de NFT's para su público. ",
+
+    "Questions_Title": "Preguntas frecuentes",
+    "Questions_SubTitle_01": "¿Cómo puedo participar como becario?",
+    "Questions_Text_01": "Gestionamos todo lo relacionado con las becas en nuestro entorno de Discord. Para solicitar una beca, únase a este servidor y siga las instrucciones. Nuestros gestores están trabajando muy duro para incorporar al mayor número posible de becarios.",
+    "Questions_SubTitle_02": "¿Cómo puedo ser un colaborador?",
+    "Questions_Text_02": "Como organización autónoma descentralizada, queremos asegurar una amplia distribución del token $CMF. Por lo tanto, estamos investigando activamente varias formas de tener una ronda de inversión pública en la que cualquier persona tendrá la oportunidad de comprar su participación de tokens y, formar parte de la Crypto Maker Foundation DAO. ",
+    "Questions_Link": "Encuentrenos en Discord",
+
+    "Roadmap_Phase": "Fase",
+    "Roadmap_Phase_01_01": "Idea Conceptualización",
+    "Roadmap_Phase_01_02": "Recaudación de fondos inicial",
+    "Roadmap_Phase_01_03": "Construcción de la tripulación de jugadores CMC 250 becas",
+    "Roadmap_Phase_01_04": "Comunidad de backers CMF",
+    "Roadmap_Phase_01_05": "CMF DAO",
+    "Roadmap_Phase_01_06": "Programa de 1.000 becas",
+
+    "Roadmap_Phase_02_01": "Publicación del Whitepaper y Coinmarketcap",
+    "Roadmap_Phase_02_02": "Aplicar CoinGecko, CoinMarketCap, Listado de Blockfolio",
+    "Roadmap_Phase_02_03": "Recaudación de fondos DAO CMF Venta privada 0.01",
+    "Roadmap_Phase_02_04": "Comunidad Venta pública del token CMF 0,05",
+    "Roadmap_Phase_02_05": "Venta pública de Smart Contracts",
+
+
+    "Roadmap_Phase_03_01": "BSC nuestros tokens Wallet testnet Lanzamiento",
+    "Roadmap_Phase_03_02": "Smart contract Wisdom Token",
+    "Roadmap_Phase_03_03": "Comunidad Ventas privadas de la lista blanca.",
+    "Roadmap_Phase_03_04": "Puesta en juego CMF Lanzamiento para Wisdom Tokens",
+    "Roadmap_Phase_03_05": "Recompensas de Wisdom Tokens con LP Tokens BNB",
+
+    "Roadmap_Phase_04_01": "Primer vesting semanal libera tokens de la comunidad.",
+    "Roadmap_Phase_04_02": "Colección de Fundadores de NFT- Edición limitada",
+    "Roadmap_Phase_04_03": "Lanzamiento del mercado de Nft.",
+    "Roadmap_Phase_04_04": "Lanzamiento de marketing y Airdrops",
+
+    "Roadmap_Phase_05_01": "Prueba beta del algoritmo de creación de Nft",
+    "Roadmap_Phase_05_02": "Apuesta de NFT's para subir de nivel",
+    "Roadmap_Phase_05_03": "Lanzamiento de la plataforma GameFi / Únete al metaverso",
+    "Roadmap_Phase_05_04": "Lanzamiento de la campaña de marketing de influencers",
+
+    "Roadmap_Phase_06_01": "Diversificación de la colección de Ventures y NFT's ",
+    "Roadmap_Phase_06_02": "Construcción del Metaverso 3d",
+
+
+    "Month_01" : "Enero",
+    "Month_02" : "Febrero",
+    "Month_03" : "Marzo",
+    "Month_04" : "Abril",
+    "Month_05" : "Mayo",
+    "Month_06" : "Junio",
+    "Month_07" : "Julio",
+    "Month_08" : "Agosto",
+    "Month_09" : "Septiembre",
+    "Month_10" : "Octubre",
+    "Month_11" : "Noviembre",
+    "Month_12" : "Diciembre"
+
+
+
+}
